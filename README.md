@@ -20,3 +20,32 @@ A responsive developer portfolio built with React and Vite as part of the Week 0
 - CSS (custom properties for theming)
 
 ## Project Structure
+
+```text
+src/
+  components/
+    About.jsx
+    Contact.jsx
+    Footer.jsx
+    Navbar.jsx
+    Projects.jsx
+    Skills.jsx
+  data/
+    portfolioData.js
+  App.jsx
+  index.css
+  main.jsx
+```
+
+## Run Locally
+
+```bash
+git clone https://github.com/Drishyarao/week-05-react-portfolio.git
+cd week-05-react-portfolio
+npm install
+npm run dev
+```
+
+## Author
+
+Drishya, third-year B.Tech Computer Science student (Cybersecurity) at NMAMIT.
